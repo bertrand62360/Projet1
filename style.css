@@ -1,0 +1,40 @@
+header{
+text-align: center;
+background-image: url(https://i.ibb.co/16hRzMx/herbe2.jpg);
+margin: 0;
+height: auto;
+background-size: cover;
+overflow: hidden;
+background-position: center;
+background-attachment: local;
+vertical-align: middle;
+
+}
+
+nav{
+background-color: white;
+text-align: center;
+font-size: 10px;
+}
+
+a{
+text-decoration: none;
+color: green;
+padding-right: 3%;
+padding-left: 3%;
+padding-top: 4%;
+font-weight: 800;
+font-size: 1.7vw;
+}
+
+body{
+background-color: gray;
+margin: 0;
+}
+
+h1 {
+margin: 0;
+font-weight: 900;
+font-size: 5vw;
+
+}
